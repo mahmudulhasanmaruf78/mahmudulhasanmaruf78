@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudulhasanmaruf78&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudulhasanmaruf78" /> </p>
 
 
-- 🔭 I’m currently working on **a fully dynamic e-commerce web application**
+- 🔭 I’m currently working on **a full dynamic e-commerce web application**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Django, and advanced React patterns**
 
