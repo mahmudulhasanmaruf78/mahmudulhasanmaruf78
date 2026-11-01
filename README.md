@@ -67,9 +67,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulhasanmaruf78&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulhasanmaruf78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img height="205" src="https://streak-stats.demolab.com?user=mahmudulhasanmaruf78&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="205" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahmudulhasanmaruf78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+
